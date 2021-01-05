@@ -6,6 +6,7 @@ For Classic, depends on xinited and socket systemd unit file is not working.
 User: SYSDBA
 Password: sysdba
 Inside bin you have the scripts to change de password.
+Error: If you got dependency error, install devpkg-icu4c and devpkg-libedit. 
 
 If you want compile (i recommend 50GB disc):
 git the firebird version from github. 
