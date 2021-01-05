@@ -1,6 +1,6 @@
 # Firebird2.5.9-ClearLinux
 This repository contains compiled binarys to Clear Linux (latest gcc, with clearlinux cflags optimizations).
-The default install dir is on /usr/local/firebird. So, attached is a tar from this compilation. 
+The default install dir is on /usr/local/firebird. So, attached is 3 zips from this compilation. 
 To execute Super Classic Server, do: /usr/local/firebird/bin/fbguard -daemon -forever -pidfile /var/run/fb.pid
 For Classic, depends on xinited and socket systemd unit file is not working. 
 
